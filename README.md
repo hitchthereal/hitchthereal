@@ -35,8 +35,6 @@ Já atuei em projetos ERP e SaaS, unindo programação e testes automatizados pa
 ### 🛠️ Ferramentas e Testes
 
 - Cypress
-- Playwright (básico)
-- Puppeteer
 - BDD / Gherkin
 - Jira
 - Zephyr
