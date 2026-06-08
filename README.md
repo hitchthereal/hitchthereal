@@ -9,9 +9,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Sou formado em Análise e Desenvolvimento de Sistemas e especializado no desenvolvimento front-end de aplicações web modernas e responsivas, utilizando JavaScript, React, Next.js, Tailwind e CSS.
-Tenho experiência na criação de interfaces funcionais e acessíveis, componentes reutilizáveis, integração com APIs REST e versionamento com Git.
-Já atuei em projetos ERP e SaaS, unindo programação e testes automatizados para garantir qualidade e performance nas entregas
+Sou formado em Análise e Desenvolvimento de Sistemas e especializado no desenvolvimento fullstak web modernas e responsivas, utilizando JavaScript, React, Next.js, Tailwind e CSS.
 
 ---
 
