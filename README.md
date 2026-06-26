@@ -30,14 +30,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e especializado no desenvo
 <br/>
 <br/>
 
-### 🛠️ Ferramentas e Testes
-
-- Cypress
-- BDD / Gherkin
-- Jira
-- Zephyr
-- Zendesk
-
 ---
 
 ### 📊 Estatísticas
