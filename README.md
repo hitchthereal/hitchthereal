@@ -1,9 +1,13 @@
 # 🧑🏾‍💻 Israel Rocha 
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/israel-rocha-955137249/](https://www.linkedin.com/in/israel-rocha-955137249/)"><img width="32px" alt="LinkedIn" title="LinkedIn" src="[https://i.imgur.com/yRpa1dQ.png](https://i.imgur.com/yRpa1dQ.png)"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="[https://discord.com/users/hitchthereal](https://discord.com/users/hitchthereal)" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="[https://i.imgur.com/OViZO8J.png](https://i.imgur.com/OViZO8J.png)"/></a>
+  <a href="https://www.linkedin.com/in/israel-rocha-955137249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &#8287;&#8287;
+  <a href="https://discord.com/users/hitchthereal" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 **`Software Developer`**
