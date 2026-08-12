@@ -53,15 +53,3 @@ console.log(`🦇 ${hero.name} protects ${hero.city}`);
 
 <br/>
 <br/>
-
----
-
-### 📊 Estatísticas
-
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=hitchthereal&show_icons=true&theme=tokyonight"
-/>
